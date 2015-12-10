@@ -1,0 +1,11 @@
+checkout_page:
+  name: Jeff B
+  address: 1001 Broad Street
+  email:  jeff@ddig.com
+  pay_type: Purchase order
+
+checkout_page_rdm:
+  name: ~full_name
+  address: ~street_address
+  email:  ~email_address
+  pay_type: ~randomize ['Check', 'Purchase order', 'Credit card']
